@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AlenSiilivask
-- 🌱 I’m currently studyng in TalTech univercity as a IT sytem administrator
 
 
 <!---
